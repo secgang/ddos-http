@@ -58,7 +58,7 @@ def start_url():
             print("[!] Please Install NodeJs. Downloading... [!]")
             down = wget.download("https://nodejs.org/dist/v12.13.0/node-v12.13.0-x64.msi")
             down
-            os.system("node-v12.13.0-x64.msi")#Credit to PassDDoS
+            os.system("node-v12.13.0-x64.msi")#Credit to Nii-Chan
     logo()
     url = input("Target [URL/IP]: ").strip()
     if url == "":
