@@ -4,8 +4,6 @@
 
 import os, sys
 import requests, urllib3
-os.system("pip3 install requests urllib3")
-
 import socket, socks, threading, random, re, os
 import sys, glob, time, requests, ssl, webbrowser
 import bz2, datetime, wget, json, cfscrape, urllib3
