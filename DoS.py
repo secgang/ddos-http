@@ -1,6 +1,5 @@
 #Remaked by GaLViN Credit to Nii-Chan 
 #Python3
-#https://discord.gg/YVWXVzZ
 
 import os, sys
 import requests, urllib3
