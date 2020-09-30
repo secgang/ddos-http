@@ -1,5 +1,5 @@
-# Layer7-HTTP-FLooder (C)
-a simple script made of python3.  To Run DoS (DDoS) Attack  How to use  
+# Layer7-HTTP-FLooder
+ # simple script made of python3.  To Run DoS (DDoS) Attack  How to use  
 
 - Install Python3 https://www.python.org/downloads/  
  
@@ -9,4 +9,3 @@ a simple script made of python3.  To Run DoS (DDoS) Attack  How to use
  
  WARNING: DoS / DDoS is illegal. We are not responsible for your action
  
- Thank YOU!
